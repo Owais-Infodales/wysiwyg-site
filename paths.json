@@ -1,10 +1,10 @@
 {
   "mappings": [
     "/content/wysiwyg-site/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/wysiwyg-site/configuration:/.helix/config.json",
+    "/content/wysiwyg-site/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/wysiwyg-site/"
   ]
 }
